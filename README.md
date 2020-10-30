@@ -1,15 +1,16 @@
-# demo_app
+# Flutter BMI Calculator
 
-A new Flutter project.
+
+A beginner project for calculating Body Mass Inded(BMI) using Flutter with UI 
+
+![Finished App](https://github.com/ArunBalajiR/BMI-Calculator-using-Flutter/blob/master/assets/20201030_162549.gif)
+
+# Final APK Bundle
+
+[Download Finished APK here](https://github.com/ArunBalajiR/BMI-Calculator-using-Flutter/blob/master/yourBMI.apk)
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
